@@ -1,0 +1,7 @@
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\bin\Debug\pjsestouaqui.exe.config
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\bin\Debug\pjsestouaqui.exe
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\bin\Debug\pjsestouaqui.pdb
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\pjsestouaqui.csprojAssemblyReference.cache
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\pjsestouaqui.csproj.CoreCompileInputs.cache
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\pjsestouaqui.exe
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\pjsestouaqui.pdb

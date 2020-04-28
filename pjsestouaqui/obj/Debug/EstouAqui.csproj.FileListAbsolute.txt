@@ -1,0 +1,15 @@
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\bin\Debug\EstouAqui.exe.config
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\bin\Debug\EstouAqui.exe.manifest
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\bin\Debug\EstouAqui.application
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\bin\Debug\EstouAqui.exe
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\bin\Debug\EstouAqui.pdb
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\bin\Debug\log4net.dll
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\bin\Debug\log4net.xml
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\EstouAqui.csproj.CoreCompileInputs.cache
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\EstouAqui.TrustInfo.xml
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\EstouAqui.exe.manifest
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\EstouAqui.application
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\EstouAqui.csproj.CopyComplete
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\EstouAqui.exe
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\EstouAqui.pdb
+C:\Users\santos.11099\source\repos\pjsestouaqui\pjsestouaqui\obj\Debug\EstouAqui.csprojAssemblyReference.cache
